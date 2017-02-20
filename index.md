@@ -46,4 +46,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Having trouble with plugin? Check out our [documentation](https://vashishthakapoor.com/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with plugin? Check out our [documentation](https://vashishthakapoor.com/) or [contact support](https://github.com/contact) and we’ll help you.
