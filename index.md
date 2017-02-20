@@ -29,19 +29,21 @@ and
 
 - wow.js
 
-This is what being done on my [livewebsite](https://vashishthakapoor.com) and you can easily have a look at it.
+This is what being done on my live website and you can easily have a look at it.
 
+Coming up in the plugin
 
+1. Shortcode Awesomeness
+2. Use of wow.js
+3. Use of Animate.css
+4. Use of hover.css
 
-1. Numbered
-2. List
+I am also planning to use scrollmagic.js in this project. You can also contribute to this project. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Thank you
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [my website](https://vashishthakapoor.com/animated-shortcodes/).
 
 
 ### Support or Contact
