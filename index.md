@@ -45,7 +45,7 @@ Thank you
 
 For more details see [my website](https://vashishthakapoor.com/animated-shortcodes/).
 
-There is also a collection of awesome and the fastest wordpress themes[fastest wordpress themes](https://vashishthakapoor.com/fastest-wordpress-themes/) I have published on my blog. Do not forget checking it out too.
+There is also a collection of awesome and the fastest woocommerce themes[fastest woocommerce themes](https://vashishthakapoor.com/fastest-ecommerce-wordpress-themes/) I have published on my blog. Do not forget checking it out too.
 
 ### Support or Contact
 
